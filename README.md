@@ -5,7 +5,7 @@
 </p>
 <p>A light weight two layer CNN is applied for this task as the model can be easily deployed to wearable device through TFlite.</p>
 
-<p>Data is segmented through a fixed size sliding window with 50% overlapping region to capture the time series pattern. A confusion Matrix is applied for the performance verification and is shown below: </p>
+<p>The dataset consists of six classes including 'Walking', 'LyingDown', 'Standing', 'Sitting', 'Jogging', 'Stairs'. The data are collected from 3-axis IMU. Data is then processed by segmenting through a fixed size sliding window with 50% overlapping region to capture the time series pattern. A confusion Matrix is applied for the performance verification and is shown below: </p>
 <p></p>
 <img src="Confusion Matrix.png"
      alt="Markdown Monster icon"
