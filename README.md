@@ -9,7 +9,7 @@
 <p></p>
 <img src="Confusion Matrix.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 10px;" width="400" height="300" />
 
 ### Tools Required
 
